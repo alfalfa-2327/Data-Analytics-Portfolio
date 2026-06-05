@@ -30,6 +30,7 @@ Files included:
 - Chart2_Battery.png — battery capacity comparison chart
 
 Project 2 - Bike Sales Consolidated Workbook
+
 Linked two separate Excel files (2021 and 2022 sales data) into one consolidated workbook using Excel Workbook Links.Used AVERAGE function across linked worksheets.Tested live data refresh between linked workbooks.
 
 Skills used: Excel workbook linking, cross-sheet formulas, data consolidation
